@@ -1,3 +1,5 @@
+package payments.strategy;
+
 public class StrategyPattern {
     public static void main(String[] args) {
         Payment payment = new Payment(new CardPayment("1234-5678-9876-5432", "John Doe"));

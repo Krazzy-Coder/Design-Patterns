@@ -1,3 +1,5 @@
+package payments.strategy;
+
 public class CashPayment implements PaymentStrategy{
     @Override
     public void pay(int amount) {
