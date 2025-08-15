@@ -1,3 +1,5 @@
+package payments.strategy;
+
 public class UPIPayment implements PaymentStrategy{
     private String upiId;
 

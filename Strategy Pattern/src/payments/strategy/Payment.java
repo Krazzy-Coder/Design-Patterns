@@ -1,3 +1,5 @@
+package payments.strategy;
+
 public class Payment {
     private PaymentStrategy paymentStrategy;
 
