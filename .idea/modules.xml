@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" filepath="$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain Of Responsibility Pattern/Chain Of Responsibility Pattern.iml" filepath="$PROJECT_DIR$/Chain Of Responsibility Pattern/Chain Of Responsibility Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" filepath="$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" />
-        <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
     </modules>
   </component>
 </project>
